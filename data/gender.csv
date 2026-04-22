@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+"Aussiger Straße",wikidata,-,Q156974,way
 "Bremer Straße",wikidata,-,Q24879,way
 "Breslauer Straße",wikidata,-,Q1799,way
 "Cadolzburger Straße",wikidata,-,Q522025,way
@@ -24,6 +25,11 @@ Sudetenstraße,wikidata,-,Q194242,way
 "Würzburger Straße",wikidata,-,Q2999,way
 "Zirndorfer Straße",wikidata,-,Q72977,way
 Albert-Einstein-Straße,wikidata,M,Q937,way
+Albert-Schweitzer-Straße,wikidata,M,Q49325,way
+Albrecht-Dürer-Straße,wikidata,M,Q5580,way
+Albrechtstraße,wikidata,M,Q44394161,way
+Aldringerstraße,wikidata,M,Q62332,way
+Anzengruberstraße,wikidata,M,Q93718,way
 Daimlerstraße,wikidata,M,Q57098,way
 Galileistraße,wikidata,M,Q307,way
 Gaußstraße,wikidata,M,Q6722,way
@@ -31,6 +37,7 @@ Hans-Sachs-Straße,wikidata,M,Q19543,way
 John-F.-Kennedy-Straße,wikidata,M,Q9696,way
 Keplerstraße,wikidata,M,Q8963,way
 Kopernikusstraße,wikidata,M,Q619,way
+Lehmusstraße,wikidata,M,Q1460702,way
 Leibnizstraße,wikidata,M,Q9047,way
 Liebigstraße,wikidata,M,Q16571,way
 Lilienthalstraße,wikidata,M,Q57162,way
