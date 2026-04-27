@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+Geschwister-Scholl-Straße,wikidata,+,Q57820;Q76972,way
 "Aussiger Straße",wikidata,-,Q156974,way
 "Bremer Straße",wikidata,-,Q24879,way
 "Breslauer Straße",wikidata,-,Q1799,way
@@ -26,13 +27,18 @@ Sudetenstraße,wikidata,-,Q194242,way
 "Vacher Straße",wikidata,-,Q1710810,way
 "Veitsbronner Straße",wikidata,-,Q524234,way
 "Würzburger Straße",wikidata,-,Q2999,way
+Xylokastroplatz,wikidata,-,Q2248347,way
+Zehentweg,wikidata,-,Q184664,way
 "Zirndorfer Straße",wikidata,-,Q72977,way
+"Zoppoter Straße",wikidata,-,Q92689,way
 Dr.-Meyer-Spreckels-Straße,wikidata,F,Q94752890,way
 Albert-Einstein-Straße,wikidata,M,Q937,way
 Albert-Schweitzer-Straße,wikidata,M,Q49325,way
 Albrecht-Dürer-Straße,wikidata,M,Q5580,way
 Albrechtstraße,wikidata,M,Q44394161,way
 Aldringerstraße,wikidata,M,Q62332,way
+Alexanderstraße,wikidata,M,Q214044,way
+Alfred-Nobel-Straße,wikidata,M,Q23810,way
 Anzengruberstraße,wikidata,M,Q93718,way
 Beethovenstraße,wikidata,M,Q255,way
 Benno-Strauß-Straße,wikidata,M,Q818000,way
@@ -74,8 +80,20 @@ Fritz-Gastreich-Straße,wikidata,M,Q107465868,way
 Fritz-Gräßler-Straße,wikidata,M,Q1466452,way
 Fritz-Griebel-Straße,wikidata,M,Q1466441,way
 Fröbelstraße,wikidata,M,Q76679,way
+Gabriel-Löwenstein-Straße,wikidata,M,Q1489416,way
 Galileistraße,wikidata,M,Q307,way
+Gallasstraße,wikidata,M,Q553849,way
+Ganghoferstraße,wikidata,M,Q77475,way
 Gaußstraße,wikidata,M,Q6722,way
+Gebhardtstraße,wikidata,M,Q1126796,way
+Georg-Elser-Steg,wikidata,M,Q77269,way
+Gerhart-Hauptmann-Straße,wikidata,M,Q43523,way
+Gluckstraße,wikidata,M,Q130759,way
+Gradlstraße,wikidata,M,Q1611243,way
+Graf-Stauffenberg-Brücke,wikidata,M,Q21209,way
+Gustav-Schickedanz-Straße,wikidata,M,Q109523,way
+Gustav-Weißkopf-Straße,wikidata,M,Q61361,way
+Gustavstraße,wikidata,M,Q52938,way
 Hans-Sachs-Straße,wikidata,M,Q19543,way
 John-F.-Kennedy-Straße,wikidata,M,Q9696,way
 Keplerstraße,wikidata,M,Q8963,way
@@ -91,6 +109,7 @@ Richard-Wagner-Straße,wikidata,M,Q1511,way
 Schmerlerstraße,wikidata,M,Q1913372,way
 Thomas-Mann-Straße,wikidata,M,Q37030,way
 Voltastraße,wikidata,M,Q680,way
+Zeppelinstraße,wikidata,M,Q75780,way
 Dr.-Elisabeth-Hölzl-Straße,csv,F,,way
 Dieter-Streng-Straße,csv,M,,way
 Dr.-Frank-Straße,csv,M,,way
