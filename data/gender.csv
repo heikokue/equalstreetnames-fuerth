@@ -32,6 +32,7 @@ Zehentweg,wikidata,-,Q184664,way
 "Zirndorfer Straße",wikidata,-,Q72977,way
 "Zoppoter Straße",wikidata,-,Q92689,way
 Dr.-Meyer-Spreckels-Straße,wikidata,F,Q94752890,way
+Karolinenstraße,wikidata,F,Q170195,way
 Albert-Einstein-Straße,wikidata,M,Q937,way
 Albert-Schweitzer-Straße,wikidata,M,Q49325,way
 Albrecht-Dürer-Straße,wikidata,M,Q5580,way
@@ -123,8 +124,19 @@ Johann-Geismann-Straße,wikidata,M,Q113633226,way
 Johann-Zumpe-Straße,wikidata,M,Q3815962,way
 Johannes-Götz-Weg,wikidata,M,Q1697606,way
 John-F.-Kennedy-Straße,wikidata,M,Q9696,way
+Kannenbergstraße,wikidata,M,Q61493,way
+Käppnersteg,wikidata,M,Q94938324,way
+Käppnerweg,wikidata,M,Q94938324,way
+Karl-Bröger-Straße,wikidata,M,Q124537,way
+Karl-Hauptmannl-Straße,wikidata,M,Q2739445,way
+Karlsteg,wikidata,M,Q3044,way
+Kellermannstraße,wikidata,M,Q77226,way
 Keplerstraße,wikidata,M,Q8963,way
+Kolpingstraße,wikidata,M,Q60619,way
+Königswarterstraße,wikidata,M,Q2573843,way
 Kopernikusstraße,wikidata,M,Q619,way
+Kurt-Scherzer-Straße,wikidata,M,Q1794047,way
+Kutzerstraße,wikidata,M,Q2417909,way
 Lehmusstraße,wikidata,M,Q1460702,way
 Leibnizstraße,wikidata,M,Q9047,way
 Liebigstraße,wikidata,M,Q16571,way
@@ -145,12 +157,16 @@ Uwe-Lichtenberg-Straße,wikidata,M,Q2504519,way
 Virchowstraße,wikidata,M,Q76432,way
 Voltastraße,wikidata,M,Q680,way
 Zeppelinstraße,wikidata,M,Q75780,way
+Krautheimerstraße,csv,+,,way
 Amalienstraße,csv,F,,way
 Annastraße,csv,F,,way
 Balbiererstraße,csv,F,,way
 Dr.-Elisabeth-Hölzl-Straße,csv,F,,way
 Elfriede-und-Heinz-Bruder-Platz,csv,F,,way
 Jakobinenstraße,csv,F,,way
+Katharinenstraße,csv,F,,way
+Käthe-Brand-Straße,csv,F,,way
+Kresserstraße,csv,F,,way
 Albigstraße,csv,M,,way
 Ammonstraße,csv,M,,way
 Baldstraße,csv,M,,way
@@ -182,6 +198,15 @@ Hätznerstraße,csv,M,,way
 Heinrich-Heine-Straße,csv,M,,way
 Heldstraße,csv,M,,way
 Johann-Schmidt-Straße,csv,M,,way
+Kaiserplatz,csv,M,,way
+Kaiserstraße,csv,M,,way
+Karl-Heckel-Weg,csv,M,,way
+Karlstraße,csv,M,,way
+Kiderlinstraße,csv,M,,way
+Königsplatz,csv,M,,way
+Königstraße,csv,M,,way
+Konrad-Kurz-Straße,csv,M,,way
+Külsheimstraße,csv,M,,way
 Toni-Wolf-Straße,csv,M,,way
 Zähstraße,csv,M,,way
 Zollesstraße,csv,M,,way
