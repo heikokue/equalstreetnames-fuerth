@@ -31,6 +31,7 @@ Xylokastroplatz,wikidata,-,Q2248347,way
 Zehentweg,wikidata,-,Q184664,way
 "Zirndorfer Straße",wikidata,-,Q72977,way
 "Zoppoter Straße",wikidata,-,Q92689,way
+Bella-Rosenkranz-Straße,wikidata,F,Q107088940,way
 Dr.-Meyer-Spreckels-Straße,wikidata,F,Q94752890,way
 Karolinenstraße,wikidata,F,Q170195,way
 Albert-Einstein-Straße,wikidata,M,Q937,way
@@ -157,19 +158,27 @@ Uwe-Lichtenberg-Straße,wikidata,M,Q2504519,way
 Virchowstraße,wikidata,M,Q76432,way
 Voltastraße,wikidata,M,Q680,way
 Zeppelinstraße,wikidata,M,Q75780,way
+Bachstraße,csv,+,,way
 Baldstraße,csv,+,,way
+Benditstraße,csv,+,,way
 Elfriede-und-Heinz-Bruder-Platz,csv,+,,way
+Grünerstraße,csv,+,,way
+Humbserstraße,csv,+,,way
 Krautheimerstraße,csv,+,,way
+"Am Annaberg",csv,F,,way
 Amalienstraße,csv,F,,way
 Annastraße,csv,F,,way
 Balbiererstraße,csv,F,,way
 Denglerstraße,csv,F,,way
 Dr.-Elisabeth-Hölzl-Straße,csv,F,,way
+Frauenstraße,csv,F,,way
 Jakobinenstraße,csv,F,,way
 Katharinenstraße,csv,F,,way
 Käthe-Brand-Straße,csv,F,,way
 Kresserstraße,csv,F,,way
 Albigstraße,csv,M,,way
+"Am Bischoffsacker",csv,M,,way
+"Am Karlberg",csv,M,,way
 Ammonstraße,csv,M,,way
 Bäumenstraße,csv,M,,way
 Benno-Mayer-Straße,csv,M,,way
@@ -199,6 +208,7 @@ Hans-Mangold-Straße,csv,M,,way
 Hätznerstraße,csv,M,,way
 Heinrich-Heine-Straße,csv,M,,way
 Heldstraße,csv,M,,way
+Herrnstraße,csv,M,,way
 Johann-Schmidt-Straße,csv,M,,way
 Kaiserplatz,csv,M,,way
 Kaiserstraße,csv,M,,way
