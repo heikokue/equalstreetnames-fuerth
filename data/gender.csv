@@ -40,6 +40,7 @@ Mariensteig,wikidata,F,Q234237,way
 Marienstraße,wikidata,F,Q234237,way
 Melli-Beese-Straße,wikidata,F,Q97003,way
 Senta-Josephthal-Straße,wikidata,F,Q2904698,way
+Theresienstraße,wikidata,F,Q233198,way
 Albert-Einstein-Straße,wikidata,M,Q937,way
 Albert-Schweitzer-Straße,wikidata,M,Q49325,way
 Albrecht-Dürer-Straße,wikidata,M,Q5580,way
@@ -187,12 +188,19 @@ Semmelweisstraße,wikidata,M,Q59736,way
 Soldnerstraße,wikidata,M,Q95792,way
 Steubenstraße,wikidata,M,Q213525,way
 Stresemannplatz,wikidata,M,Q103955,way
+Theodor-Heuss-Straße,wikidata,M,Q2594,way
 Thomas-Mann-Straße,wikidata,M,Q37030,way
 Uhlandstraße,wikidata,M,Q61058,way
 Ullsteinstraße,wikidata,M,Q95921,way
 Uwe-Lichtenberg-Straße,wikidata,M,Q2504519,way
 Virchowstraße,wikidata,M,Q76432,way
 Voltastraße,wikidata,M,Q680,way
+Wallensteinstraße,wikidata,M,Q153545,way
+Wilhelm-Hoegner-Straße,wikidata,M,Q213963,way
+Wilhelm-Leibl-Straße,wikidata,M,Q704661,way
+Wilhelm-Löhe-Straße,wikidata,M,Q72865,way
+Wilhelm-Raabe-Straße,wikidata,M,Q60647,way
+William-Townley-Weg,wikidata,M,Q1364003,way
 Zeppelinstraße,wikidata,M,Q75780,way
 Bachstraße,csv,+,,way
 Baldstraße,csv,+,,way
@@ -207,6 +215,8 @@ Neumannstraße,csv,+,,way
 Romminggasse,csv,+,,way
 Scherbsgraben,csv,+,,way
 Schwarzmannstraße,csv,+,,way
+Weigmannstraße,csv,+,,way
+Wolfsthalstraße,csv,+,,way
 "Am Annaberg",csv,F,,way
 Amalienstraße,csv,F,,way
 Annastraße,csv,F,,way
@@ -276,6 +286,11 @@ Röllingersteg,csv,M,,way
 Scherzerplatz,csv,M,,way
 Sigmund-Nathan-Straße,csv,M,,way
 Simonstraße,csv,M,,way
+Thomas-Kleinlein-Straße,csv,M,,way
 Toni-Wolf-Straße,csv,M,,way
+Wilhelmstraße,csv,M,,way
+Willi-Mederer-Straße,csv,M,,way
+Winklerstraße,csv,M,,way
+Wolfringstraße,csv,M,,way
 Zähstraße,csv,M,,way
 Zollesstraße,csv,M,,way

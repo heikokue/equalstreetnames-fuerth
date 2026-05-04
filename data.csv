@@ -1,18 +1,18 @@
 type,id,name,gender,person,description
 way,24307595,Albigstraße,M,Christian Gottlieb Albig,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Albigstra%C3%9Fe">FürthWiki</a>
-way,636967157,Amalienstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Amalienstra%C3%9Fe">FürthWiki</a>
-way,47139792,Amalienstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Amalienstra%C3%9Fe">FürthWiki</a>
-way,1475215930,Amalienstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Amalienstra%C3%9Fe">FürthWiki</a>
-way,146346088,Amalienstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Amalienstra%C3%9Fe">FürthWiki</a>
-way,622844922,Amalienstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Amalienstra%C3%9Fe">FürthWiki</a>
-way,47139795,Amalienstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Amalienstra%C3%9Fe">FürthWiki</a>
+way,636967157,Amalienstraße,F,Amalia / Amalie,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Amalienstra%C3%9Fe">FürthWiki</a>
+way,47139792,Amalienstraße,F,Amalia / Amalie,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Amalienstra%C3%9Fe">FürthWiki</a>
+way,1475215930,Amalienstraße,F,Amalia / Amalie,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Amalienstra%C3%9Fe">FürthWiki</a>
+way,146346088,Amalienstraße,F,Amalia / Amalie,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Amalienstra%C3%9Fe">FürthWiki</a>
+way,622844922,Amalienstraße,F,Amalia / Amalie,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Amalienstra%C3%9Fe">FürthWiki</a>
+way,47139795,Amalienstraße,F,Amalia / Amalie,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Amalienstra%C3%9Fe">FürthWiki</a>
 way,24235619,Ammonstraße,M,Johann Philipp Paulus Ammon,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Ammonstra%C3%9Fe">FürthWiki</a>
-way,146486670,Am Karlberg,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Am_Karlberg">FürthWiki</a>
-way,198631341,Am Karlberg,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Am_Karlberg">FürthWiki</a>
-way,32317073,Annastraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Annastra%C3%9Fe">FürthWiki</a>
-way,10429524,Annastraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Annastra%C3%9Fe">FürthWiki</a>
-way,132352674,Am Annaberg,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Am_Annaberg">FürthWiki</a>
-way,23258690,Am Bischoffsacker,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Am_Bischoffsacker">FürthWiki</a>
+way,146486670,Am Karlberg,M,Karl,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Am_Karlberg">FürthWiki</a>
+way,198631341,Am Karlberg,M,Karl,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Am_Karlberg">FürthWiki</a>
+way,32317073,Annastraße,F,Anna,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Annastra%C3%9Fe">FürthWiki</a>
+way,10429524,Annastraße,F,Anna,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Annastra%C3%9Fe">FürthWiki</a>
+way,132352674,Am Annaberg,F,Anna,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Am_Annaberg">FürthWiki</a>
+way,23258690,Am Bischoffsacker,M,Bischoff,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Am_Bischoffsacker">FürthWiki</a>
 way,144840994,Bachstraße,+,Familie Bach,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Bachstra%C3%9Fe">FürthWiki</a>
 way,146346091,Balbiererstraße,F,Magdalena Geck&#44; Elisabetha Kunigunda Balbierer&#44; Margaretha Rosina Elisabetha Balbierer,<a">FürthWiki</a> href="https://www.fuerthwiki.de/wiki/index.php?title=Balbiererstra%C3%9Fe
 way,146346092,Balbiererstraße,F,Magdalena Geck&#44; Elisabetha Kunigunda Balbierer&#44; Margaretha Rosina Elisabetha Balbierer,<a">FürthWiki</a> href="https://www.fuerthwiki.de/wiki/index.php?title=Balbiererstra%C3%9Fe
@@ -63,10 +63,10 @@ way,24307596,Fenzelstraße,M,Johann Fenzel,&rarr; <a href="https://www.fuerthwik
 way,1494514517,Foerstermühle,M,Georg Christoph Foerster,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Foersterm%C3%BChle">FürthWiki</a>
 way,23317474,Foerstermühle,M,Georg Christoph Foerster,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Foersterm%C3%BChle">FürthWiki</a>
 way,25555944,Franz-Ringel-Straße,M,Franz Ringel,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Franz-Ringel-Stra%C3%9Fe">FürthWiki</a>
-way,24161448,Frauenstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Frauenstra%C3%9Fe">FürthWiki</a>
-way,24161449,Frauenstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Frauenstra%C3%9Fe">FürthWiki</a>
-way,65047241,Frauenstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Frauenstra%C3%9Fe">FürthWiki</a>
-way,1414908424,Frauenstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Frauenstra%C3%9Fe">FürthWiki</a>
+way,24161448,Frauenstraße,F,Frau,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Frauenstra%C3%9Fe">FürthWiki</a>
+way,24161449,Frauenstraße,F,Frau,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Frauenstra%C3%9Fe">FürthWiki</a>
+way,65047241,Frauenstraße,F,Frau,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Frauenstra%C3%9Fe">FürthWiki</a>
+way,1414908424,Frauenstraße,F,Frau,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Frauenstra%C3%9Fe">FürthWiki</a>
 way,5210264,Friedrichstraße,M,Johann Heinrich Friedrich Meyer,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Friedrichstra%C3%9Fe">FürthWiki</a>
 way,47140990,Friedrichstraße,M,Johann Heinrich Friedrich Meyer,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Friedrichstra%C3%9Fe">FürthWiki</a>
 way,88724579,Friedrichstraße,M,Johann Heinrich Friedrich Meyer,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Friedrichstra%C3%9Fe">FürthWiki</a>
@@ -129,24 +129,24 @@ way,146604959,Heinrich-Heine-Straße,M,Heinrich Heine,&rarr; <a href="https://ww
 way,146346112,Hätznerstraße,M,Konrad Hätzner,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=H%C3%A4tznerstra%C3%9Fe">FürthWiki</a>
 way,198728926,Hans-Mangold-Straße,M,Hans Mangold,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Hans-Mangold-Stra%C3%9Fe">FürthWiki</a>
 way,146346108,Hans-Lohnert-Straße,M,Hans Lohnert,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Hans-Lohnert-Stra%C3%9Fe">FürthWiki</a>
-way,478956943,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,1481069988,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,1481069987,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,1481069986,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,1481069985,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,146346111,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,1481069984,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,146346110,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,47139783,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,1410497087,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,1474482034,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,1410497088,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,1469908590,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,1410497089,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,47139766,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,1481069978,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,1474482015,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
-way,1455847929,Herrnstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,478956943,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,1481069988,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,1481069987,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,1481069986,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,1481069985,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,146346111,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,1481069984,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,146346110,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,47139783,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,1410497087,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,1474482034,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,1410497088,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,1469908590,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,1410497089,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,47139766,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,1481069978,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,1474482015,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
+way,1455847929,Herrnstraße,M,Herr,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Herrnstra%C3%9Fe">FürthWiki</a>
 way,581155841,Humbserstraße,+,Familie Humbser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Humbserstra%C3%9Fe">FürthWiki</a>
 way,581155840,Humbserstraße,+,Familie Humbser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Humbserstra%C3%9Fe">FürthWiki</a>
 way,139729048,Humbserstraße,+,Familie Humbser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Humbserstra%C3%9Fe">FürthWiki</a>
@@ -177,30 +177,30 @@ way,389546819,Jakobinenstraße,F,Anna Jakobina Weigmann,&rarr; <a href="https://
 way,389546820,Jakobinenstraße,F,Anna Jakobina Weigmann,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Jakobinenstra%C3%9Fe">FürthWiki</a>
 way,111455245,Käthe-Brand-Straße,F,Käthe Brand,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%A4the-Brand-Stra%C3%9Fe">FürthWiki</a>
 way,24061568,Käthe-Brand-Straße,F,Käthe Brand,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%A4the-Brand-Stra%C3%9Fe">FürthWiki</a>
-way,33360974,Katharinenstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Katharinenstra%C3%9Fe">FürthWiki</a>
-way,219189277,Katharinenstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Katharinenstra%C3%9Fe">FürthWiki</a>
-way,23221281,Karlstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Karlstra%C3%9Fe">FürthWiki</a>
+way,33360974,Katharinenstraße,F,Katharina / Katharine,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Katharinenstra%C3%9Fe">FürthWiki</a>
+way,219189277,Katharinenstraße,F,Katharina / Katharine,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Katharinenstra%C3%9Fe">FürthWiki</a>
+way,23221281,Karlstraße,M,Karl,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Karlstra%C3%9Fe">FürthWiki</a>
 way,209861936,Karl-Heckel-Weg,M,Karl Heckel,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Karl-Heckel-Weg">FürthWiki</a>
 way,453702946,Karl-Heckel-Weg,M,Karl Heckel,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Karl-Heckel-Weg">FürthWiki</a>
 way,24526491,Karl-Heckel-Weg,M,Karl Heckel,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Karl-Heckel-Weg">FürthWiki</a>
-way,1458154441,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,1135399148,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,263670206,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,1495646575,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,144377335,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,1474482031,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,146346121,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,1474482032,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,37639564,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,1474482033,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,29342540,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,374256762,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,23218486,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,374256761,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,1457715162,Kaiserstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
-way,139264553,Kaiserplatz,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserplatz">FürthWiki</a>
-way,164765063,Kaiserplatz,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserplatz">FürthWiki</a>
-way,64388033,Kaiserplatz,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserplatz">FürthWiki</a>
+way,1458154441,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,1135399148,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,263670206,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,1495646575,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,144377335,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,1474482031,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,146346121,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,1474482032,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,37639564,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,1474482033,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,29342540,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,374256762,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,23218486,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,374256761,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,1457715162,Kaiserstraße,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserstra%C3%9Fe">FürthWiki</a>
+way,139264553,Kaiserplatz,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserplatz">FürthWiki</a>
+way,164765063,Kaiserplatz,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserplatz">FürthWiki</a>
+way,64388033,Kaiserplatz,M,Kaiser,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kaiserplatz">FürthWiki</a>
 way,29341771,Kiderlinstraße,M,Karl Kiderlin,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Kiderlinstra%C3%9Fe">FürthWiki</a>
 way,403196122,Külsheimstraße,M,Rapoto von Külsheim,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%BClsheimstra%C3%9Fe">FürthWiki</a>
 way,389169142,Külsheimstraße,M,Rapoto von Külsheim,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%BClsheimstra%C3%9Fe">FürthWiki</a>
@@ -215,42 +215,42 @@ way,26612157,Krautheimerstraße,+,Familie Krautheimer,&rarr; <a href="https://ww
 way,445932177,Konrad-Kurz-Straße,M,Konrad Kurz,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Konrad-Kurz-Stra%C3%9Fe">FürthWiki</a>
 way,24147653,Konrad-Kurz-Straße,M,Konrad Kurz,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Konrad-Kurz-Stra%C3%9Fe">FürthWiki</a>
 way,445932179,Konrad-Kurz-Straße,M,Konrad Kurz,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Konrad-Kurz-Stra%C3%9Fe">FürthWiki</a>
-way,340072773,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,373758599,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,54265917,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,1471703292,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,985493241,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,1471703293,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,985493242,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,985152880,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,822080246,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,251722317,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,251722318,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,13256645,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,251722320,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,251722322,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,985159146,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,1052763563,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,985506405,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,1024596683,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,1494755652,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,330037515,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,47906492,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,1471988315,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,390581815,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,1462037332,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,1427682281,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,1462037333,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,985101827,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,47906477,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,1491067939,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,482806841,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,482654714,Königstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
-way,23317155,Königsplatz,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigsplatz">FürthWiki</a>
-way,1480630346,Königsplatz,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigsplatz">FürthWiki</a>
-way,37867962,Königsplatz,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigsplatz">FürthWiki</a>
-way,251722316,Königsplatz,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigsplatz">FürthWiki</a>
-way,985542163,Königsplatz,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigsplatz">FürthWiki</a>
+way,340072773,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,373758599,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,54265917,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,1471703292,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,985493241,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,1471703293,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,985493242,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,985152880,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,822080246,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,251722317,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,251722318,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,13256645,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,251722320,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,251722322,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,985159146,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,1052763563,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,985506405,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,1024596683,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,1494755652,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,330037515,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,47906492,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,1471988315,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,390581815,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,1462037332,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,1427682281,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,1462037333,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,985101827,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,47906477,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,1491067939,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,482806841,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,482654714,Königstraße,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigstra%C3%9Fe">FürthWiki</a>
+way,23317155,Königsplatz,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigsplatz">FürthWiki</a>
+way,1480630346,Königsplatz,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigsplatz">FürthWiki</a>
+way,37867962,Königsplatz,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigsplatz">FürthWiki</a>
+way,251722316,Königsplatz,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigsplatz">FürthWiki</a>
+way,985542163,Königsplatz,M,König,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=K%C3%B6nigsplatz">FürthWiki</a>
 way,232384878,Leupoldstraße,F,Anna (Anni) Leupold,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Leupoldstra%C3%9Fe">FürthWiki</a>
 way,29340491,Liesl-Kießling-Straße,F,Liesl Kießling,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Liesl-Kie%C3%9Fling-Stra%C3%9Fe">FürthWiki</a>
 way,29339925,Liesl-Kießling-Straße,F,Liesl Kießling,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Liesl-Kie%C3%9Fling-Stra%C3%9Fe">FürthWiki</a>
@@ -275,17 +275,17 @@ way,323726647,Manfred-Roth-Straße,M,Manfred Roth,&rarr; <a href="https://www.fu
 way,174900193,Manfred-Roth-Straße,M,Manfred Roth,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Manfred-Roth-Stra%C3%9Fe">FürthWiki</a>
 way,323726645,Manfred-Roth-Straße,M,Manfred Roth,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Manfred-Roth-Stra%C3%9Fe">FürthWiki</a>
 way,323726644,Manfred-Roth-Straße,M,Manfred Roth,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Manfred-Roth-Stra%C3%9Fe">FürthWiki</a>
-way,88428421,Marienring,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Marienring">FürthWiki</a>
-way,23213799,Marienring,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Marienring">FürthWiki</a>
-way,88428440,Marienring,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Marienring">FürthWiki</a>
-way,264191469,Mathildenstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
-way,737016217,Mathildenstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
-way,36877477,Mathildenstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
-way,737016218,Mathildenstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
-way,140106254,Mathildenstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
-way,23248650,Mathildenstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
-way,23213803,Mathildenstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
-way,23222457,Mathildenstraße,F,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
+way,88428421,Marienring,F,Maria,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Marienring">FürthWiki</a>
+way,23213799,Marienring,F,Maria,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Marienring">FürthWiki</a>
+way,88428440,Marienring,F,Maria,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Marienring">FürthWiki</a>
+way,264191469,Mathildenstraße,F,Mathilde,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
+way,737016217,Mathildenstraße,F,Mathilde,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
+way,36877477,Mathildenstraße,F,Mathilde,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
+way,737016218,Mathildenstraße,F,Mathilde,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
+way,140106254,Mathildenstraße,F,Mathilde,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
+way,23248650,Mathildenstraße,F,Mathilde,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
+way,23213803,Mathildenstraße,F,Mathilde,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
+way,23222457,Mathildenstraße,F,Mathilde,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Mathildenstra%C3%9Fe">FürthWiki</a>
 way,220069724,Neumannstraße,+,Familie Neumann,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Neumannstra%C3%9Fe">FürthWiki</a>
 way,352367826,Neumannstraße,+,Familie Neumann,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Neumannstra%C3%9Fe">FürthWiki</a>
 way,29341660,Neumannstraße,+,Familie Neumann,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Neumannstra%C3%9Fe">FürthWiki</a>
@@ -298,9 +298,9 @@ way,208194261,Peter-Henlein-Straße,M,Peter Henlein,&rarr; <a href="https://www.
 way,30692731,Peter-Henlein-Straße,M,Peter Henlein,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Peter-Henlein-Stra%C3%9Fe">FürthWiki</a>
 way,1214083756,Peter-Landauer-Radweg,M,Peter Landauer,
 way,23307389,Pickertstraße,+,Familie Pickert,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Pickertstra%C3%9Fe">FürthWiki</a>
-way,1469892057,Ritterstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Ritterstra%C3%9Fe">FürthWiki</a>
-way,1469892058,Ritterstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Ritterstra%C3%9Fe">FürthWiki</a>
-way,32404740,Ritterstraße,M,,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Ritterstra%C3%9Fe">FürthWiki</a>
+way,1469892057,Ritterstraße,M,Ritter,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Ritterstra%C3%9Fe">FürthWiki</a>
+way,1469892058,Ritterstraße,M,Ritter,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Ritterstra%C3%9Fe">FürthWiki</a>
+way,32404740,Ritterstraße,M,Ritter,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Ritterstra%C3%9Fe">FürthWiki</a>
 way,24510435,Robert-Schumann-Straße,M,Robert Schumann,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Robert-Schumann-Stra%C3%9Fe">FürthWiki</a>
 way,1110107604,Röllingersteg,M,Hans Röllinger,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=R%C3%B6llingersteg">FürthWiki</a>
 way,894358525,Romminggasse,+,Familie Romming,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Romminggasse">FürthWiki</a>
@@ -326,6 +326,19 @@ way,56300369,Simonstraße,M,Simon Gieß,&rarr; <a href="https://www.fuerthwiki.d
 way,146346146,Simonstraße,M,Simon Gieß,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Simonstra%C3%9Fe">FürthWiki</a>
 way,23269212,Simonstraße,M,Simon Gieß,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Simonstra%C3%9Fe">FürthWiki</a>
 way,144905653,Sophienstraße,F,Sophie,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Sophienstra%C3%9Fe">FürthWiki</a>
+way,28093286,Thomas-Kleinlein-Straße,M,Thomas Kleinlein,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Thomas-Kleinlein-Stra%C3%9Fe">FürthWiki</a>
+way,24051076,Thomas-Kleinlein-Straße,M,Thomas Kleinlein,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Thomas-Kleinlein-Stra%C3%9Fe">FürthWiki</a>
+way,144905664,Weigmannstraße,+,Familie Weigmann,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Weigmannstra%C3%9Fe">FürthWiki</a>
+way,23277255,Wilhelmstraße,M,Wilhelm Evora,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Wilhelmstra%C3%9Fe">FürthWiki</a>
+way,27802381,Wilhelmstraße,M,Wilhelm Evora,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Wilhelmstra%C3%9Fe">FürthWiki</a>
+way,146518284,Wilhelmstraße,M,Wilhelm Evora,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Wilhelmstra%C3%9Fe">FürthWiki</a>
+way,1427506268,Wilhelmstraße,M,Wilhelm Evora,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Wilhelmstra%C3%9Fe">FürthWiki</a>
+way,19849413,Wilhelmstraße,M,Wilhelm Evora,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Wilhelmstra%C3%9Fe">FürthWiki</a>
+way,904586290,Willi-Mederer-Straße,M,Willi Mederer,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Willi-Mederer-Stra%C3%9Fe">FürthWiki</a>
+way,803465484,Willi-Mederer-Straße,M,Willi Mederer,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Willi-Mederer-Stra%C3%9Fe">FürthWiki</a>
+way,23221346,Winklerstraße,M,Johann Winkler,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Winklerstra%C3%9Fe">FürthWiki</a>
+way,146486701,Wolfringstraße,M,Max Wolfring,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Wolfringstra%C3%9Fe">FürthWiki</a>
+way,146901336,Wolfsthalstraße,+,Wolf von Wolfsthal,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Wolfsthalstra%C3%9Fe">FürthWiki</a>
 way,1436492189,Zähstraße,M,Johann Karl Zäh,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Z%C3%A4hstra%C3%9Fe">FürthWiki</a>
 way,1436492192,Zähstraße,M,Johann Karl Zäh,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Z%C3%A4hstra%C3%9Fe">FürthWiki</a>
 way,1436492188,Zähstraße,M,Johann Karl Zäh,&rarr; <a href="https://www.fuerthwiki.de/wiki/index.php?title=Z%C3%A4hstra%C3%9Fe">FürthWiki</a>
